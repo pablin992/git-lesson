@@ -1,0 +1,5 @@
+- Create first repository (done) 
+- Add a TODO list (done)
+- Inspect Git history (done)
+- Pulling from a remote
+- Create webpage
